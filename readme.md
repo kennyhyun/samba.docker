@@ -9,11 +9,6 @@ Thanks to `stanback/alpine-samba` image.
 ### install
 
 ```
-$ cd ~
-$ mkdir Projects
-$ mkdir Downloads
-$ mkdir docker
-$ cd docker
 $ git clone https://github.com/kennyhyun/samba.docker
 $ cd samba.docker
 $ ./run
